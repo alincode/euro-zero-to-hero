@@ -1,5 +1,6 @@
 # Euro Zero To Hero
 
+
 | -                    | Internet | Nomad Cost | Tipping | Coffee | Dinner |
 | -------------------- | -------- | ---------- | ------- | ------ | ------ |
 | Vienna - Austria     | 38 mbps  | $2,924     | 7.5%    | $3.53  | $10.97 |
@@ -26,7 +27,11 @@
 | Split - Dubrovnik  | 4.5h    | 17 EUR | 6/6, 6/7, 6/8       |
 | Dubrovnik - Zagrab | 8.5~10h | 30 EUR | 6/8                 |
 
-Lake: 6/4 - 
+Lake
+
+* 6/4 - 6/9
+* 6/11 - 6/16
+* 1400 - 2000 TWD / night
 
 預估：20 * 5 + 30 = 130 EUR
 
