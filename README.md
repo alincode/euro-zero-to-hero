@@ -17,35 +17,37 @@
 | Taichung - Taiwan    | 29 mbps  | $1,325     | N       | $2.03  | $2.77  |
 
 
-| Route              | Time    | Price  | move at             |
-| ------------------ | ------- | ------ | ------------------- |
-| Taiwan - Vienna    | 14h     | -      | 5/26,5/27,5/28      |
-| Vienna - Zagrab    | 5.5h    | 19 EUR | 5/28,5/29,5/30,5/31 |
-| Zagrab - Lake      | 2.5h    | -      | 5/31,6/1,6/2        |
-| Lake - Zadar       | 3h      | -      | 6/2,6/3,6/4 6/12-14 |
-| Zadar - Split      | 3.5h    | -      | 6/4,6/5, 6/6        |
-| Split - Dubrovnik  | 4.5h    | 17 EUR | 6/6, 6/7, 6/8       |
-| Dubrovnik - Zagrab | 8.5~10h | 30 EUR | 6/8                 |
+| Bus Route          | Time    | Price     | move at                   |
+| ------------------ | ------- | --------- | ------------------------- |
+| Taiwan - Vienna    | 14h     | -         | 5/26,5/27,5/28            |
+| Vienna - Ljubljana | 5.5h    | 35.99 EUR | 5/28,5/29,5/30            |
+| Ljubljana - Zagrab | 2.5h    | 19 EUR    | 5/30,5/31,6/1,6/2,6/3,6/4 |
+| Zagrab - Lake      | 2.5h    | -         | 6/2                       |
+| Zagrab - Dubrovnik | 8.5~10h | 30 EUR    | 6/4,6/5,6/6               |
+| Dubrovnik - Split  | 4.5h    | 18 EUR    | 6/6,6/7,6/8               |
+| Split - Zadar      | 3.5h    | 12 EUR    | 6/8,6/9,6/10              |
+| Zadar - Budapest   | 3.5h    | 12 EUR    | 6/11,6/12,6/13            |
+| Budapest - Praha   | -       | -         | 6/13,6/14,6/15            |
+| Praha - Vienna     | -       | -         | 6/20,6/21                 |
 
-Lake
+<div style="page-break-after: always;"></div>
 
-* 6/4 - 6/9
-* 6/11 - 6/16
-* 1400 - 2000 TWD / night
 
-預估：20 * 5 + 30 = 130 EUR
+## useful App / website
 
+* [GetByBus on the App Store](https://itunes.apple.com/hr/app/getbybus/id973441890?mt=8)
+* [FlixBus: Smart Bus Travel on the App Store](https://itunes.apple.com/us/app/flixbus-smart-bus-travel/id778437357?mt=8)
+* [Arriva m-ticket on the App Store](https://itunes.apple.com/us/app/id1180917738?mt=8)
+  * [YouTube](https://www.youtube.com/watch?v=3KByIewukik)
+* [Student Agency](https://www.studentagency.eu/en/)
+* [Travelling by bus made easy - 62895 bus connections online ](https://getbybus.com/en/)
+
+### Vienna - Austria
 
 | Name                                     | Phone       | Address                         |
 | ----------------------------------------- | ----------- | ------------------------------- |
 | wombat's CITY HOSTELS VIENNA - The Lounge | +4318972336 | Mariahilfer Str. 137, 1150 Wien |
 
-### Vienna - Austria
-
-#### TODO
-
-* [ ] rent internet
-* [ ] buy CAT ticket
 
 #### Bus
 
@@ -55,15 +57,17 @@ Lake
 
 #### Hot Spot
 
-| English Name         | Chinese Name         | ticket                                  | Mise                                                              |
-| --------------------- | -------------------- | --------------------------------------- | ----------------------------------------------------------------- |
-| Stephansdom Cathedral | 斯蒂芬大教堂         | 17.9 EUR                                | U1 / U3 Stephansplatz, 2 mins, Sunday morning closed              |
-| Nashmarkt             | 中央市場             | -                                       | U1 / U2 / U4 Karlsplatz, 5 mins, 6:00~19:30, Sunday closed        |
-| Schonbrunn Palace     | 美泉宮 / 熊布倫宮  | Grand Tour - Schönbrunn Palace 17.5 EUR | U4 Schonbrunn, 10 mins / Schloss Schönbrunn (Schlossallee) 1 mins |
-| Gloriette             | 凱旋門               | 3.8 EUR                                 | 08:00~17:30                                                       |
-| Wiener Stadtpark      | 城市公園             | -                                       | U3 Stubentor, 在廣場舉行露天音樂會                                |
-| Ribs of Vienna        | 豬肋排               | -                                       |                                                                   |
-| Café Central          | 中央咖啡館           | -                                       | 07:30~22:00                                                       |
+| English Name         | Chinese Name | ticket   | Mise                                                       |
+| --------------------- | ------------ | -------- | ---------------------------------------------------------- |
+| Stephansdom Cathedral | 斯蒂芬大教堂 | 17.9 EUR | U1 / U3 Stephansplatz, 2 mins, Sunday morning closed       |
+| Nashmarkt             | 中央市場     | -        | U1 / U2 / U4 Karlsplatz, 5 mins, 6:00~19:30, Sunday closed |
+| Schonbrunn Palace     | 美泉宮     | 17.5 EUR | Grand Tour - Schönbrunn Palace                             |
+| Gloriette             | 凱旋門       | 3.8 EUR  | 08:00~17:30                                                |
+| Ribs of Vienna        | 豬肋排       | -        | <http://www.ribsofvienna.at/>                              |
+| Café Central          | 中央咖啡館   | -        | 07:30~22:00                                                |
+
+
+* 熊布倫宮: U4 Schonbrunn, 10 mins / Schloss Schönbrunn (Schlossallee) 1 mins
 
 ### Ref
 
@@ -71,6 +75,7 @@ Lake
   * Sunrise Today: 05:04:31 AM
   * Sunset Today: 08:38:11 PM
 
+<div style="page-break-after: always;"></div>
 
 ### Ljubljana - Slovenia
 
@@ -81,11 +86,10 @@ Lake
  * [ABC Hub, Ljubljana - Read Reviews & Book Online](https://www.coworker.com/slovenia/ljubljana/abc-hub)
  * [Poligon, Ljubljana - Read Reviews & Book Online](https://www.coworker.com/slovenia/ljubljana/poligon)
 
-#### Bus
-
-* Zagreb - Ljubljana: 2.5 hours, 11 EUR
-
 ### Zagreb - Croatia
+
+* [Laundry Lounge Zagreb](https://goo.gl/maps/QvdKhivzt9m)
+  * [Laundry Lounge - Bright World](http://brightworld.hr/laundry-lounge/)
 
 #### Youtube Video
 
@@ -93,14 +97,6 @@ Lake
 * [Samuel and Audrey - 10 Things to do in Zagreb, Croatia Travel Guide](https://www.youtube.com/watch?v=NUfw8q_a5iU)
 
 ### Plitvice Lakes National Park
-
-#### Live
-
-* Plitvice Miric Inn
-  * 5/31 - 6/2: 2,183 TWD o
-  * 6/09 - 6/11: 2,183 TWD x, because w7 closed
-  * 6/12 - 6/14: 2,183 TWD o, better
-  * 6/13 - 6/15: 2,183 TWD o
 
 #### Ticket
 
@@ -128,12 +124,8 @@ Lake
 * Zagrab - Dubrovnik : 8.5-10.5 hours, 12~15 times, 30 EUR
 * Zadar - Dubrovnik : 8 hours, 8 times
 
-
-## Bus
-
-* [| STUDENT AGENCY | Student Agency](https://www.studentagency.eu/en/)
-
 ## Ref
 
 * [東歐自助旅行 | 12天11夜 捷克、奧地利、匈牙利、德國 歐洲四國跨國旅行 (行程/交通/路線規劃) | 黛西優齁齁 DaisyYohoho](https://www.daisyyohoho.com/eastern-europe-trip/)
 * [【奧地利 旅遊】交通篇 維也納國際機場出入境+機場退稅教學。Vienna International Airport+Tax Refund實用資訊 歐洲Austria旅遊推薦 @ PJ大俠愛旅行。深活 :: 痞客邦 ::](http://pj20120619.pixnet.net/blog/post/224536778-%E3%80%90%E5%A5%A7%E5%9C%B0%E5%88%A9-%E6%97%85%E9%81%8A%E3%80%91%E4%BA%A4%E9%80%9A%E7%AF%87-%E7%B6%AD%E4%B9%9F%E7%B4%8D%E5%9C%8B%E9%9A%9B%E6%A9%9F%E5%A0%B4%E5%87%BA%E5%85%A5)
+* [歐洲48國上網卡30天/5GB、帶通話、可分享](https://ok-korea.com/OKsim/index.php?route=product/product&product_id=160)
