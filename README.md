@@ -17,20 +17,24 @@
 | Taichung - Taiwan    | 29 mbps  | $1,325     | N       | $2.03  | $2.77  |
 
 
-| Bus Route          | Time    | Price     | move at                   |
-| ------------------ | ------- | --------- | ------------------------- |
-| Taiwan - Vienna    | 14h     | -         | 5/26,5/27,5/28            |
-| Vienna - Ljubljana | 5.5h    | 35.99 EUR | 5/28,5/29,5/30            |
-| Ljubljana - Zagrab | 2.5h    | 19 EUR    | 5/30,5/31,6/1,6/2,6/3,6/4 |
-| Zagrab - Lake      | 2.5h    | -         | 6/2                       |
-| Zagrab - Dubrovnik | 8.5~10h | 30 EUR    | 6/4,6/5,6/6               |
-| Dubrovnik - Split  | 4.5h    | 18 EUR    | 6/6,6/7,6/8               |
-| Split - Zadar      | 3.5h    | 12 EUR    | 6/8,6/9,6/10              |
-| Zadar - Budapest   | 3.5h    | 12 EUR    | 6/11,6/12,6/13            |
-| Budapest - Praha   | -       | -         | 6/13,6/14,6/15            |
-| Praha - Vienna     | -       | -         | 6/20,6/21                 |
+| Bus Route            | Time | Price     | move at                   |
+| -------------------- | ---- | --------- | ------------------------- |
+| Taiwan - Vienna      | 14h  | -         | 5/26,5/27,5/28            |
+| Vienna - Ljubljana   | 5.5h | 35.99 EUR | 5/28,5/29,5/30            |
+| Ljubljana - Zagrab   | 2.5h | 19 EUR    | 5/30,5/31,6/1,6/2,6/3,6/4 |
+| Zagrab - Lake        | 2.5h | 13 EUR    | 6/4,6/5                   |
+| Lake - Zadar         | 1.5h | 13 EUR    | 6/5,6/6,6/7               |
+| Zadar - Split        | 2.5h | -         | 6/7,6/8                   |
+| Split - Dubrovnik    | 3.5h | 12 EUR    | 6/8,6/9,6/10              |
+| Dubrovnik - Budapest | 2.5h | -         | 6/10,6/11,6/12            |
+| Budapest - Praha     | -    | -         | 6/14,6/15,6/16            |
+| Praha - Vienna       | -    | -         | 6/20,6/21                 |
 
 <div style="page-break-after: always;"></div>
+
+## Main Bus Station
+
+* [Map - Liburnija d.o.o.](https://goo.gl/maps/wr4qk7TXd9R2)
 
 
 ## useful App / website
@@ -41,6 +45,7 @@
   * [YouTube](https://www.youtube.com/watch?v=3KByIewukik)
 * [Student Agency](https://www.studentagency.eu/en/)
 * [Travelling by bus made easy - 62895 bus connections online ](https://getbybus.com/en/)
+* [Bus station Zadar, bus departures and arrivals Zadar Croatia](https://www.buscroatia.com/bus-station-zadar/)
 
 ### Vienna - Austria
 
@@ -53,7 +58,6 @@
 
 * 1 way: 2.2 EUR, 24H: 7.6 EUR, 48H: 13.3 EUR
 * Zagreb - Vienna: 5.5 hours, 19 EUR
-* Ljubljana - Vienna: 5.5 hours, 36 EUR
 
 #### Hot Spot
 
@@ -90,6 +94,11 @@
 
 * [Laundry Lounge Zagreb](https://goo.gl/maps/QvdKhivzt9m)
   * [Laundry Lounge - Bright World](http://brightworld.hr/laundry-lounge/)
+
+#### Sim card
+
+* [bonbon Croatia - prepaid sim card](http://www.tourist.bonbon.hr/)
+* [VIP Croatia - Unlimited surfing for only 10 EUR](http://www.vipnet.hr/tourist-offer/en)
 
 #### Youtube Video
 
