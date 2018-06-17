@@ -32,27 +32,32 @@
 
 <div style="page-break-after: always;"></div>
 
+## International Hostel Chains
+
+* Wombat's City Hostels
+
 ## Main Bus Station
 
 * [Map - Liburnija d.o.o.](https://goo.gl/maps/wr4qk7TXd9R2)
 
-
 ## useful App / website
 
-* [GetByBus on the App Store](https://itunes.apple.com/hr/app/getbybus/id973441890?mt=8)
-* [FlixBus: Smart Bus Travel on the App Store](https://itunes.apple.com/us/app/flixbus-smart-bus-travel/id778437357?mt=8)
-* [Arriva m-ticket on the App Store](https://itunes.apple.com/us/app/id1180917738?mt=8)
-  * [YouTube](https://www.youtube.com/watch?v=3KByIewukik)
+* Get by bus
+  * [App Store](https://itunes.apple.com/hr/app/getbybus/id973441890?mt=8)
+  * [Website](https://getbybus.com/en/)
+* FlixBus
+  * [App Store](https://itunes.apple.com/us/app/flixbus-smart-bus-travel/id778437357?mt=8)
+  * [Website](https://global.flixbus.com/)
+* Arriva
+  * [App Store](https://itunes.apple.com/us/app/id1180917738?mt=8)
+  * [Website](https://www.arrivabus.co.uk/)
+  * [How to use app buy ticket? - Youtube](https://www.youtube.com/watch?v=3KByIewukik)
 * [Student Agency](https://www.studentagency.eu/en/)
-* [Travelling by bus made easy - 62895 bus connections online ](https://getbybus.com/en/)
-* [Bus station Zadar, bus departures and arrivals Zadar Croatia](https://www.buscroatia.com/bus-station-zadar/)
+* Croatia Bus
+  * [Website](https://www.buscroatia.com/bus-station-zadar/)
+* [autobusni kolodvor timetable](http://www.autobusni-kolodvor.com/en/timetable.aspx)
 
 ### Vienna - Austria
-
-| Name                                     | Phone       | Address                         |
-| ----------------------------------------- | ----------- | ------------------------------- |
-| wombat's CITY HOSTELS VIENNA - The Lounge | +4318972336 | Mariahilfer Str. 137, 1150 Wien |
-
 
 #### Bus
 
@@ -126,6 +131,8 @@
 * Dubrovnik - Split : 4.5 hours, 20 times
 
 ### Dubrovnik
+
+* [Libertas Dubrovnik d.o.o.](http://www.libertasdubrovnik.hr/en/): local bus timetable
 
 #### Bus
 
