@@ -1,6 +1,5 @@
 # Euro Zero To Hero
 
-
 | -                    | Internet | Nomad Cost | Tipping | Coffee | Dinner |
 | -------------------- | -------- | ---------- | ------- | ------ | ------ |
 | Vienna - Austria     | 38 mbps  | $2,924     | 7.5%    | $3.53  | $10.97 |
@@ -16,25 +15,15 @@
 | Taipei - Taiwan      | 23 mbps  | $1,832     | N       | $3.44  | $4.11  |
 | Taichung - Taiwan    | 29 mbps  | $1,325     | N       | $2.03  | $2.77  |
 
+## Important Tips
 
-| Bus Route            | Time | Price     | move at                   |
-| -------------------- | ---- | --------- | ------------------------- |
-| Taiwan - Vienna      | 14h  | -         | 5/26,5/27,5/28            |
-| Vienna - Ljubljana   | 5.5h | 35.99 EUR | 5/28,5/29,5/30            |
-| Ljubljana - Zagrab   | 2.5h | 19 EUR    | 5/30,5/31,6/1,6/2,6/3,6/4 |
-| Zagrab - Lake        | 2.5h | 13 EUR    | 6/4,6/5                   |
-| Lake - Zadar         | 1.5h | 13 EUR    | 6/5,6/6,6/7               |
-| Zadar - Split        | 2.5h | -         | 6/7,6/8                   |
-| Split - Dubrovnik    | 3.5h | 12 EUR    | 6/8,6/9,6/10              |
-| Dubrovnik - Budapest | 2.5h | -         | 6/10,6/11,6/12            |
-| Budapest - Praha     | -    | -         | 6/14,6/15,6/16            |
-| Praha - Vienna       | -    | -         | 6/20,6/21                 |
-
-<div style="page-break-after: always;"></div>
+* every tuesday have cheap flight ticket from Dubrovnik to Pula, around 48 EUR.
 
 ## International Hostel Chains
 
-* Wombat's City Hostels
+* [Wombat´s Hostels](https://www.wombats-hostels.com/):We hostel Berlin, Budapest, Munich München and Vienna Wien
+* [MEININGER](https://www.meininger-hotels.com/)
+* [Generator Hostels: Book Direct for Best Price](https://generatorhostels.com/)
 
 ## Main Bus Station
 
@@ -48,7 +37,7 @@
 * FlixBus
   * [App Store](https://itunes.apple.com/us/app/flixbus-smart-bus-travel/id778437357?mt=8)
   * [Website](https://global.flixbus.com/)
-* Arriva
+* Arriva Bus
   * [App Store](https://itunes.apple.com/us/app/id1180917738?mt=8)
   * [Website](https://www.arrivabus.co.uk/)
   * [How to use app buy ticket? - Youtube](https://www.youtube.com/watch?v=3KByIewukik)
